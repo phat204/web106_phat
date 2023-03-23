@@ -1,0 +1,14 @@
+
+body{
+    background-color: white;
+   }
+   img{
+       width: 100%;
+   }
+   
+   @media all and (max-width: 480px){
+       body{
+    background-color:rgb(146, 158, 154);
+           
+       }
+   }
